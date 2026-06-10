@@ -5,14 +5,14 @@
 
 ## 解題說明
 
-本題要求實作五種核心排序演算法，並針對不同的資料量 $n$（$500, 1000, 2000, 3000, 4000, 5000$）在最壞情況（Worst-case）與平均情況（Average-case）下的執行時間與記憶體用量進行精確的動態計時與實測分析。
+本題要求實作五種核心排序演算法，並針對不同的資料量$n$($500,1000,2000,3000,4000,5000$)在最壞情況(Worst-case)與平均情況(Average-case)下的執行時間與記憶體用量進行精確的動態計時與實測分析。
 
 要實作與評估的演算法包含：
-1. Insertion Sort（插入排序）
-2. Quick Sort（快速排序）
-3. Merge Sort（合併排序）
-4. Heap Sort（堆積排序）
-5. Composite Sort（複合排序法）
+1. Insertion Sort(插入排序)
+2. Quick Sort(快速排序)
+3. Merge Sort(合併排序)
+4. Heap Sort(堆積排序)
+5. Composite Sort(複合排序法)
 
 ---
 
